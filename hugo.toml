@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hugoleonardo.dev/'
 languageCode = 'pt-br'
 title = 'Hugo Leonardo'
 theme = 'm10c'
