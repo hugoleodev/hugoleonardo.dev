@@ -1,4 +1,4 @@
-baseURL = 'https://hugoleonardo.dev/'
+baseURL = 'https://www.hugoleonardo.dev/'
 languageCode = 'pt-br'
 title = 'Hugo Leonardo'
 theme = 'm10c'
